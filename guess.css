@@ -1,0 +1,13 @@
+body{
+    background-image: url('hg.jpg');
+
+}
+.box {
+    border:2px solid yellow;
+    margin-left:500px;
+    margin-right:500px;
+    padding: 40px;
+    
+    margin-top: 220px;
+
+}
